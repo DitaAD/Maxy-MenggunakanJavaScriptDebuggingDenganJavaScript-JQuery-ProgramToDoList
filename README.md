@@ -1,27 +1,18 @@
-To-Do List Application
+# **To-Do List Application**
 
-This is a simple To-Do List application that allows users to manage their tasks efficiently. Users can add, edit, delete, and mark tasks as complete or incomplete using a clean and interactive interface.
+A simple To-Do List app to manage tasks easily. Add, edit, delete, and mark tasks as complete or incomplete.
 
-Features
+## **Features**
 
-Add Task: Quickly add new tasks to your list.
+- **Add Task**: Add new tasks to the list.
+- **Mark Complete/Incomplete**: Toggle task status.
+- **Edit Task**: Update task details.
+- **Delete Task**: Remove tasks from the list.
 
-Mark Complete/Incomplete: Toggle the status of tasks.
+## **Built With**
 
-Edit Task: Update task details directly from the list.
-
-Delete Task: Remove tasks from the list easily.
-
-Dynamic Styling: Visual cues for completed tasks with a crossed-out style and different background colors.
-
-Built With
-
-HTML5: For structuring the web page.
-
-CSS3: For styling, including custom styles for completed tasks.
-
-Bootstrap 5: For responsive and modern UI components.
-
-JavaScript: For interactivity and functionality.
-
-jQuery: Simplifies DOM manipulation and event handling.
+- **HTML5**: Page structure
+- **CSS3**: Styling
+- **Bootstrap 5**: Responsive UI
+- **JavaScript**: Functionality
+- **jQuery**: Simplified DOM manipulation
